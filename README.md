@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning at University of Technology Malaysia
+🌱 I’m currently learning at University of Technology Malaysia \n
 ⚡ Bachelor in Software Engineering with Honours
 
 <!--
