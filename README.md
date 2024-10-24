@@ -1,6 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning at University of Technology Malaysia
-Bachelor in Software Engineering with Honours
+⚡ Bachelor in Software Engineering with Honours
 
 <!--
 **auninurinhidayah/auninurinhidayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
